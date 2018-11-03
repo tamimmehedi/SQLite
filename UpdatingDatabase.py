@@ -13,3 +13,4 @@ def insert(item,quantity,price):
     conn.commit()
     conn.close()
 insert("Coffee Cup",10,5)
+#view in the next neo
